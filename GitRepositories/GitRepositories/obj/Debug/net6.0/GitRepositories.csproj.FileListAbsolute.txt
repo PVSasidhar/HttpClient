@@ -1,0 +1,15 @@
+C:\Users\SasidharParupudi\source\repos\GitRepositories\GitRepositories\bin\Debug\net6.0\GitRepositories.exe
+C:\Users\SasidharParupudi\source\repos\GitRepositories\GitRepositories\bin\Debug\net6.0\GitRepositories.deps.json
+C:\Users\SasidharParupudi\source\repos\GitRepositories\GitRepositories\bin\Debug\net6.0\GitRepositories.runtimeconfig.json
+C:\Users\SasidharParupudi\source\repos\GitRepositories\GitRepositories\bin\Debug\net6.0\GitRepositories.dll
+C:\Users\SasidharParupudi\source\repos\GitRepositories\GitRepositories\bin\Debug\net6.0\GitRepositories.pdb
+C:\Users\SasidharParupudi\source\repos\GitRepositories\GitRepositories\obj\Debug\net6.0\GitRepositories.csproj.AssemblyReference.cache
+C:\Users\SasidharParupudi\source\repos\GitRepositories\GitRepositories\obj\Debug\net6.0\GitRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SasidharParupudi\source\repos\GitRepositories\GitRepositories\obj\Debug\net6.0\GitRepositories.AssemblyInfoInputs.cache
+C:\Users\SasidharParupudi\source\repos\GitRepositories\GitRepositories\obj\Debug\net6.0\GitRepositories.AssemblyInfo.cs
+C:\Users\SasidharParupudi\source\repos\GitRepositories\GitRepositories\obj\Debug\net6.0\GitRepositories.csproj.CoreCompileInputs.cache
+C:\Users\SasidharParupudi\source\repos\GitRepositories\GitRepositories\obj\Debug\net6.0\GitRepositories.dll
+C:\Users\SasidharParupudi\source\repos\GitRepositories\GitRepositories\obj\Debug\net6.0\refint\GitRepositories.dll
+C:\Users\SasidharParupudi\source\repos\GitRepositories\GitRepositories\obj\Debug\net6.0\GitRepositories.pdb
+C:\Users\SasidharParupudi\source\repos\GitRepositories\GitRepositories\obj\Debug\net6.0\GitRepositories.genruntimeconfig.cache
+C:\Users\SasidharParupudi\source\repos\GitRepositories\GitRepositories\obj\Debug\net6.0\ref\GitRepositories.dll
